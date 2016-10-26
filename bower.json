@@ -1,0 +1,28 @@
+{
+  "name": "desarrollo_agil",
+  "description": "Desarrollo Agil en javascript",
+  "main": "index.html",
+  "authors": [
+    "Cristhian Benitez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CristhianJBD/desarrollo_agil",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "idea"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "jquery-ui": "*",
+    "fontawesome": "*",
+    "bootstrap-sass": "*",
+    "bootstrap":">=3.3.7",
+    "angular":"1.5.8",
+    "angular-route": "*"
+  }
+}
