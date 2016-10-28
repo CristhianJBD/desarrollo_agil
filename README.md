@@ -1,12 +1,22 @@
 # desarrollo-agil
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+Proyecto Desarrollo Ágil en JavaScript correspondiente a la materia Programación Web Frontend de la Facultad Politécnica de la Universidad Nacional de Asunción.
 
-## Build & development
+## Herramientas Utilizadas
 
-Run `grunt` for building and `grunt serve` for preview.
+Grunt: una herramienta utilizada para realizar automáticamente las tareas de uso frecuente tales como Minimización de archivos javascript, Concatenación de librerías, Compilación de estilos Sass y otros.
 
-## Testing
+Yeoman:Nos ayuda la generación de una plantilla de arranque, la gestión de dependencias, proporciona un servidor de desarrollo local, y la optimización de código de producción para la implementación.
 
-Running `grunt test` will run the unit tests with karma.
+Node.js:Proporciona ayuda en la creación de programas de red altamente escalables
+
+Bower:administra componentes que contienen HTML, CSS, JavaScript, fuentes o incluso archivos de imagen. Permite instalar las versiones correctas de los paquetes que necesitas y sus dependencias.
+
+## Integrante
+
+Cristhian Benitez 
+
+
+
+
+
