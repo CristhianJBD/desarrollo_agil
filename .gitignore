@@ -1,8 +1,7 @@
-src/vendors/*
-dist/*
-node_modules/*
-.sass-cache/*
-idea/*
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
 .idea/
-bower_components/
-node_modules/
+

@@ -1,27 +1,28 @@
 {
-  "name": "desarrollo_agil",
-  "description": "Desarrollo Agil en javascript",
-  "main": "index.html",
-  "authors": [
-    "Cristhian Benitez"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/CristhianJBD/desarrollo_agil",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "idea"
-  ],
+  "name": "desarrollo-agil",
+  "version": "0.0.0",
   "dependencies": {
-    "jquery": "*",
-    "jquery-ui": "*",
-    "bootstrap-sass": "*",
-    "bootstrap":">=3.3.7",
-    "angular":"1.5.8",
-    "angular-route": "*"
+    "angular": "^1.4.0",
+    "bootstrap-sass-official": "^3.2.0",
+    "angular-animate": "^1.4.0",
+    "angular-cookies": "^1.4.0",
+    "angular-resource": "^1.4.0",
+    "angular-route": "^1.4.0",
+    "angular-sanitize": "^1.4.0",
+    "angular-touch": "^1.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0"
+  },
+  "appPath": "app",
+  "moduleName": "desarrolloAgilApp",
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
   }
 }
