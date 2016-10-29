@@ -16,7 +16,9 @@ Bower:administra componentes que contienen HTML, CSS, JavaScript, fuentes o incl
 Para probar el proyecto se deben ejecutar los siguientes comandos
 
 npm install
-bower install
+
+bower install 
+
 grunt serve
 
 ingresar en la direccion http://localhost:9000
