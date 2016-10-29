@@ -12,6 +12,15 @@ Node.js:Proporciona ayuda en la creación de programas de red altamente escalabl
 
 Bower:administra componentes que contienen HTML, CSS, JavaScript, fuentes o incluso archivos de imagen. Permite instalar las versiones correctas de los paquetes que necesitas y sus dependencias.
 
+## Como Ejecutar el Proyecto
+Para probar el proyecto se deben ejecutar los siguientes comandos
+
+npm install
+bower install
+grunt serve
+
+ingresar en la direccion http://localhost:9000
+
 ## Integrante
 
 Cristhian Benitez 
