@@ -1,6 +1,7 @@
 # Desarrollo Agil
 
-Proyecto Desarrollo Ágil en JavaScript correspondiente a la materia Programación Web Frontend de la Facultad Politécnica de la Universidad Nacional de Asunción.
+Proyecto Desarrollo Ágil en JavaScript correspondiente a la 
+materia Programación Web Frontend de la Facultad Politécnica de la Universidad Nacional de Asunción.
 
 ## Herramientas Utilizadas
 
